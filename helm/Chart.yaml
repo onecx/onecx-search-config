@@ -1,0 +1,10 @@
+apiversion: v2
+name: onecx-search-config
+version: 0.0.0
+appversion: 0.0.0
+# dependencies:
+# - name: onecx-search-config-svc
+#   version: "*-0"
+#   repository: oci://ghcr.io/onecx/charts
+#   condition: "deployment.svc"  
+#   alias: "svc"
