@@ -1,0 +1,9 @@
+name: onecx-search-config
+title: Search Config Management
+version: latest
+start_page: general:index.adoc
+nav:
+  - modules/general/nav.adoc
+  - modules/onecx-search-config-ui/nav.adoc
+  - modules/onecx-search-config-svc/nav.adoc
+  - modules/onecx-search-config-bff/nav.adoc
