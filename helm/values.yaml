@@ -1,2 +1,13 @@
-# deployment:
-#   svc: true
+deployment:
+  svc: true
+  bff: true
+  ui: true
+
+product:
+  info:
+    data:
+      description: "OneCX Search Config"
+      imageUrl: ""
+      iconName: ""
+      displayName: "OneCX Search Config"
+      basePath: "/search-config"
