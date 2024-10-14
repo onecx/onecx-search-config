@@ -8,6 +8,6 @@ product:
     data:
       description: "OneCX Search Config"
       imageUrl: ""
-      iconName: ""
+      iconName: "pi-search-plus"
       displayName: "OneCX Search Config"
       basePath: "/search-config"
