@@ -4,12 +4,12 @@ dependencies:
   version: 0.2.0
 - name: onecx-search-config-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.47
+  version: 0.0.0-rc.48
 - name: onecx-search-config-bff
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.19
 - name: onecx-search-config-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.5
-digest: sha256:f2e2a240b8af171bbb41a8b50042de1f5ad12b62e757ab2cec331eb01988f8f4
-generated: "2024-12-11T09:04:56.884361948Z"
+digest: sha256:3eb86ffa1b3717789b7851e357df39a354accf6c6c19e02f71337699c83b1682
+generated: "2024-12-19T11:25:14.62409422Z"
