@@ -6,8 +6,10 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Search Config"
+      description: "Manage Search Configurations"
       imageUrl: ""
-      iconName: "pi-search-plus"
+      iconName: "search-plus"
       displayName: "OneCX Search Config"
-      basePath: "/search-config"
+      basePath: /search-config
+      provider: "OneCX Team"
+      classifications: [ "Tool" ]
