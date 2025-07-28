@@ -7,9 +7,9 @@ dependencies:
   version: 0.0.0-rc.73
 - name: onecx-search-config-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.42
+  version: 0.0.0-rc.43
 - name: onecx-search-config-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.16
-digest: sha256:3b04655540efc4b6470264ed252b2936333271c2299c826ffc1cb5e529a7e17a
-generated: "2025-07-28T10:37:59.902423007Z"
+digest: sha256:7f0644cec3320295d8a30daf61c794d2c10458e031e1c66e6b17398d3b0cd8e7
+generated: "2025-07-28T15:14:42.709745432Z"
