@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.70
 - name: onecx-search-config-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.29
-digest: sha256:7302ad3e5b8ac6b1041fc1499a7fd538b5bc3b57c303bfaad51d898d16b0b8a0
-generated: "2026-02-09T03:57:42.768990187Z"
+  version: 0.0.0-rc.30
+digest: sha256:1fd8fbfe90666734722e411f170db68fe5e719578f24e99347c8e3e90bebeadf
+generated: "2026-02-09T06:01:22.832408976Z"
